@@ -1,0 +1,6 @@
+{
+  "name": "NodeJS Server",
+  "description": "Interactive Node.js Express server simulator with developer CLI logs, mock routes builder, HTTP request client, and guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
